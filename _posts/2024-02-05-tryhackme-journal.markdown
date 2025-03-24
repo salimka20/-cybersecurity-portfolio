@@ -6,7 +6,8 @@ img: tryhackme.png
 alt: image-alt
 
 # Add the link to your journal below
-project-url: https://tryhackme.com/room/linuxfundamentalspart1
+project-url: 
+https://tryhackme.com/room/linuxfundamentalspart1
 https://tryhackme.com/room/linuxfundamentalspart2
 https://tryhackme.com/room/linuxfundamentalspart3
 https://tryhackme.com/room/windowsfundamentals1xbx
