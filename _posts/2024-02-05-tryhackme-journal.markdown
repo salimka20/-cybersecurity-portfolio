@@ -25,5 +25,5 @@ project-url: https://tryhackme.com/room/introtologanalysis
 
 
 # Once you've completed your project, update the 'description' below to this one: Completed 15 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
-description: Completed 16 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
+description: Completed 15 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
 ---
